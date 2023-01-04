@@ -39,7 +39,10 @@ https://xd.adobe.com/view/83a7db08-ce20-4494-aecc-062e8ee15edc-d6f4/
 Zimexa HSE - WEB - Capacitación
 https://xd.adobe.com/view/ca353079-f5cd-44c7-9111-42e41dba338b-9f66/
 
-Zimexa HSE/PRODUCCIÓN - WEB - No Conformidades
+Zimexa HSE/Producción - WEB - No Conformidades
 https://xd.adobe.com/view/603d9b7c-0633-47a1-8224-61911a981ef5-356e/
+
+Zimexa HSE/Producción - WEB - Gestor Documental
+https://xd.adobe.com/view/2d4b2382-c9a2-4fcc-b167-5cdf28237474-7818/
 
 
