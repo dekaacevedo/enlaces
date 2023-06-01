@@ -53,3 +53,9 @@ https://xd.adobe.com/view/b18f7d05-f1a4-4014-a8d0-085539082ef7-e4dc/
 
 Serviterra - APP - Combustible
 https://xd.adobe.com/view/e44e43c6-1c5a-4381-8f81-808762725aac-b11d/
+
+Riesgo Empresa - APP - Patrimonio
+https://xd.adobe.com/view/db7ce8eb-a5f1-4924-827e-9b621edac884-8e2f/
+
+Riesgo Empresa - APP - Calidad
+https://xd.adobe.com/view/c7f3b561-20e0-4f7e-81ea-d02ebb04d4cd-92a0/
