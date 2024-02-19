@@ -59,3 +59,26 @@ https://xd.adobe.com/view/db7ce8eb-a5f1-4924-827e-9b621edac884-8e2f/
 
 Riesgo Empresa - APP - Calidad
 https://xd.adobe.com/view/c7f3b561-20e0-4f7e-81ea-d02ebb04d4cd-92a0/
+
+Riesgo Empresa - APP 2.0 - Monitoreo SSO
+https://xd.adobe.com/view/84498702-82f5-44f2-96a3-43bb691a8f87-d11a/
+
+Riesgo Empresa - APP 2.0 - IRF y Acta de Entrega
+https://xd.adobe.com/view/f255aa73-c9ae-4150-8a13-bd811cfae2c4-a706/
+
+Riesgo Empresa - APP 2.0 - Acreditación Maquinaria
+https://xd.adobe.com/view/6e0e9135-35c0-4721-9b02-e28b05319015-3b5d/
+
+Riesgo Empresa - WEB - IRF y Acta de Entrega
+https://xd.adobe.com/view/a74295fb-3c7f-4174-a065-d3be813d8195-f211/
+
+Riesgo Empresa - WEB - PCE
+https://xd.adobe.com/view/62d10963-ab6b-48a9-a100-ade250f9fb5e-3782/
+
+Riesgo Empresa - WEB - Calidad
+https://xd.adobe.com/view/9d0615fc-3b1a-4e2b-8af9-df66ecd8f55d-c855/
+
+Riesgo Empresa - WEB - Reservador de Horarios
+https://xd.adobe.com/view/ad3c4dc7-5c09-47cb-88de-2e8fd54f9d85-f86f/
+
+
