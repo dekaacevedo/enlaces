@@ -84,6 +84,8 @@ https://xd.adobe.com/view/ad3c4dc7-5c09-47cb-88de-2e8fd54f9d85-f86f/
 Riesgo Empresa - WEB - DdD
 https://xd.adobe.com/view/8ab28a97-3cfd-4453-a7f7-46e46a0c77cb-dfe1/
 
-Riesgo Empresa - APP - Productividad
+Riesgo Empresa - APP - Productividad (formulario)
 https://xd.adobe.com/view/877b9ba7-b48a-418b-9e64-14fc9d1a2e0d-d228/
 
+Riesgo Empresa - WEB - Productividad (formulario)
+https://xd.adobe.com/view/59d78497-c18f-4f55-909b-3dda4b9d69d4-0c84/
