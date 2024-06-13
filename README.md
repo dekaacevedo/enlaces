@@ -89,3 +89,32 @@ https://xd.adobe.com/view/877b9ba7-b48a-418b-9e64-14fc9d1a2e0d-d228/
 
 Riesgo Empresa - WEB - Productividad (formulario)
 https://xd.adobe.com/view/59d78497-c18f-4f55-909b-3dda4b9d69d4-0c84/
+
+Zimexa - APP - Accidentes
+https://xd.adobe.com/view/1530bb93-915f-46f5-bff1-1892e177c473-4063/
+
+Zimexa - WEB - Accidentes
+https://xd.adobe.com/view/c473c24b-91ca-4dce-9c2f-ceb04eae5afd-9120/
+
+Zimexa - APP - Ranking cumplimiento
+https://xd.adobe.com/view/21a9b49d-7dc7-4966-9c1c-19640b4930fa-74fa/
+
+Zimexa - APP - Estado empresas
+https://xd.adobe.com/view/19e4c9ee-7a25-46fe-81a5-5a531313a068-4cb7/
+
+Zimexa - WEB - Estado empresas
+https://xd.adobe.com/view/a0634428-eff7-4170-8940-21dd8353ec00-f530/
+
+Zimexa - WEB - Onboarding Planificador
+https://xd.adobe.com/view/e6a15818-5d06-482c-850e-8b61d99f2dab-b3f2/
+
+Zimexa - APP - Formulario sin preguntas
+https://xd.adobe.com/view/d0f56fa1-a23b-422f-a752-109fe6515a88-85a6/
+
+Zimexa - APP - Icono i
+https://xd.adobe.com/view/ff132e8b-b8bc-49ed-8566-252084213246-aa40/
+
+Zimexa - APP - Cumplimiento de trabajo
+https://xd.adobe.com/view/57d1e746-61f9-4fd1-a409-cbb6c8a719c6-0282/
+
+
