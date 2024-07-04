@@ -1,16 +1,7 @@
-# enlaces
+# Zimexa Web
 
 Zimexa Producción - WEB - Combustible
 https://xd.adobe.com/view/6c797716-4502-4d3c-8aa1-efe8ac4639dc-392a/
-
-Zimexa Producción - APP - Combustible
-https://xd.adobe.com/view/4e621f3c-7cac-47cf-a69f-1b896f7f9c03-1b31/
-
-Zimexa HSE - APP - Capacitaciones
-https://xd.adobe.com/view/be909efa-be7d-483a-a0dd-34b69ae0007f-ebc3/
-
-Zimexa HSE - APP - Observaciones; Inspecciones; Capacitaciones; EPP
-https://xd.adobe.com/view/6bf84cd6-4db6-431c-ad34-2d11c6189dd4-3eab/
 
 Zimexa HSE - WEB - EPP
 https://xd.adobe.com/view/df84bd3e-03ac-46d7-9d2b-cfa72fe2acbc-8ad7/
@@ -48,11 +39,56 @@ https://xd.adobe.com/view/603d9b7c-0633-47a1-8224-61911a981ef5-356e/
 Zimexa HSE/Producción - WEB - Gestor Documental
 https://xd.adobe.com/view/2d4b2382-c9a2-4fcc-b167-5cdf28237474-7818/
 
+Zimexa - WEB - Estado empresas
+https://xd.adobe.com/view/a0634428-eff7-4170-8940-21dd8353ec00-f530/
+
+Zimexa - WEB - Onboarding Planificador
+https://xd.adobe.com/view/e6a15818-5d06-482c-850e-8b61d99f2dab-b3f2/
+
+Zimexa - WEB - Accidentes
+https://xd.adobe.com/view/c473c24b-91ca-4dce-9c2f-ceb04eae5afd-9120/
+
+Zimexa - WEB - Evaluación de Desempeño
+https://xd.adobe.com/view/28b2d9c8-b0c9-44d2-94e5-5c5571c80f91-7de1/
+
+# Zimexa App
+
+Zimexa Producción - APP - Combustible
+https://xd.adobe.com/view/4e621f3c-7cac-47cf-a69f-1b896f7f9c03-1b31/
+
+Zimexa HSE - APP - Capacitaciones
+https://xd.adobe.com/view/be909efa-be7d-483a-a0dd-34b69ae0007f-ebc3/
+
+Zimexa HSE - APP - Observaciones; Inspecciones; Capacitaciones; EPP
+https://xd.adobe.com/view/6bf84cd6-4db6-431c-ad34-2d11c6189dd4-3eab/
+
+Zimexa - APP - Accidentes
+https://xd.adobe.com/view/1530bb93-915f-46f5-bff1-1892e177c473-4063/
+
+Zimexa - APP - Formulario sin preguntas
+https://xd.adobe.com/view/d0f56fa1-a23b-422f-a752-109fe6515a88-85a6/
+
+Zimexa - APP - Icono i
+https://xd.adobe.com/view/ff132e8b-b8bc-49ed-8566-252084213246-aa40/
+
+Zimexa - APP - Cumplimiento de trabajo
+https://xd.adobe.com/view/57d1e746-61f9-4fd1-a409-cbb6c8a719c6-0282/
+
+Zimexa - APP - Ranking cumplimiento
+https://xd.adobe.com/view/21a9b49d-7dc7-4966-9c1c-19640b4930fa-74fa/
+
+Zimexa - APP - Estado empresas
+https://xd.adobe.com/view/19e4c9ee-7a25-46fe-81a5-5a531313a068-4cb7/
+
+# Serviterra
+
 Serviterra - APP - Combustible (LOGIN)
 https://xd.adobe.com/view/b18f7d05-f1a4-4014-a8d0-085539082ef7-e4dc/
 
 Serviterra - APP - Combustible
 https://xd.adobe.com/view/e44e43c6-1c5a-4381-8f81-808762725aac-b11d/
+
+# Riesgo Empresa
 
 Riesgo Empresa - APP - Patrimonio
 https://xd.adobe.com/view/db7ce8eb-a5f1-4924-827e-9b621edac884-8e2f/
@@ -90,31 +126,10 @@ https://xd.adobe.com/view/877b9ba7-b48a-418b-9e64-14fc9d1a2e0d-d228/
 Riesgo Empresa - WEB - Productividad (formulario)
 https://xd.adobe.com/view/59d78497-c18f-4f55-909b-3dda4b9d69d4-0c84/
 
-Zimexa - APP - Accidentes
-https://xd.adobe.com/view/1530bb93-915f-46f5-bff1-1892e177c473-4063/
 
-Zimexa - WEB - Accidentes
-https://xd.adobe.com/view/c473c24b-91ca-4dce-9c2f-ceb04eae5afd-9120/
 
-Zimexa - APP - Ranking cumplimiento
-https://xd.adobe.com/view/21a9b49d-7dc7-4966-9c1c-19640b4930fa-74fa/
 
-Zimexa - APP - Estado empresas
-https://xd.adobe.com/view/19e4c9ee-7a25-46fe-81a5-5a531313a068-4cb7/
 
-Zimexa - WEB - Estado empresas
-https://xd.adobe.com/view/a0634428-eff7-4170-8940-21dd8353ec00-f530/
 
-Zimexa - WEB - Onboarding Planificador
-https://xd.adobe.com/view/e6a15818-5d06-482c-850e-8b61d99f2dab-b3f2/
-
-Zimexa - APP - Formulario sin preguntas
-https://xd.adobe.com/view/d0f56fa1-a23b-422f-a752-109fe6515a88-85a6/
-
-Zimexa - APP - Icono i
-https://xd.adobe.com/view/ff132e8b-b8bc-49ed-8566-252084213246-aa40/
-
-Zimexa - APP - Cumplimiento de trabajo
-https://xd.adobe.com/view/57d1e746-61f9-4fd1-a409-cbb6c8a719c6-0282/
 
 
